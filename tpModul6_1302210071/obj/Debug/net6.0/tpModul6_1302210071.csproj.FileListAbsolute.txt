@@ -1,0 +1,15 @@
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 6\tpModul6_1302210071\tpModul6_1302210071\bin\Debug\net6.0\tpModul6_1302210071.exe
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 6\tpModul6_1302210071\tpModul6_1302210071\bin\Debug\net6.0\tpModul6_1302210071.deps.json
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 6\tpModul6_1302210071\tpModul6_1302210071\bin\Debug\net6.0\tpModul6_1302210071.runtimeconfig.json
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 6\tpModul6_1302210071\tpModul6_1302210071\bin\Debug\net6.0\tpModul6_1302210071.dll
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 6\tpModul6_1302210071\tpModul6_1302210071\bin\Debug\net6.0\tpModul6_1302210071.pdb
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 6\tpModul6_1302210071\tpModul6_1302210071\obj\Debug\net6.0\tpModul6_1302210071.csproj.AssemblyReference.cache
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 6\tpModul6_1302210071\tpModul6_1302210071\obj\Debug\net6.0\tpModul6_1302210071.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 6\tpModul6_1302210071\tpModul6_1302210071\obj\Debug\net6.0\tpModul6_1302210071.AssemblyInfoInputs.cache
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 6\tpModul6_1302210071\tpModul6_1302210071\obj\Debug\net6.0\tpModul6_1302210071.AssemblyInfo.cs
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 6\tpModul6_1302210071\tpModul6_1302210071\obj\Debug\net6.0\tpModul6_1302210071.csproj.CoreCompileInputs.cache
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 6\tpModul6_1302210071\tpModul6_1302210071\obj\Debug\net6.0\tpModul6_1302210071.dll
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 6\tpModul6_1302210071\tpModul6_1302210071\obj\Debug\net6.0\refint\tpModul6_1302210071.dll
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 6\tpModul6_1302210071\tpModul6_1302210071\obj\Debug\net6.0\tpModul6_1302210071.pdb
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 6\tpModul6_1302210071\tpModul6_1302210071\obj\Debug\net6.0\tpModul6_1302210071.genruntimeconfig.cache
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 6\tpModul6_1302210071\tpModul6_1302210071\obj\Debug\net6.0\ref\tpModul6_1302210071.dll
